@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="tab_name_1">Tab 1</string>
+    <string name="tab_name_2">Tab 2</string>
+    <string name="tab_name_3">Tab 3</string>
+    <string name="text_crash">Crash Bandicoot, o semplicemente Crash, è un popolare personaggio dei videogiochi creato dalla Naughty Dog nel 1996, protagonista di una serie a videogiochi omonima.[1] Originariamente creato come un videogioco a piattaforme per PlayStation, con il passare degli anni aumentando il successo ha conquistato anche altre console con giochi anche di Party e Racing. </string>
+    <string name="text_FF7">La ambientazione del gioco è simile a quella di Final Fantasy VI,[24] in quanto si tratta di un mondo in cui la tecnologia è molto più avanzata rispetto ai primi cinque capitoli della saga.[25] Nel complesso, lo sviluppo tecnologico e la società si approssimano ad un ambiente industriale o post-industriale con elementi fantascientifici.</string>
+    <string name="text_zelda">l nemico principale, un malvagio mago chiamato Ganondorf (o Ganon), deciso a impossessarsi del mistico oggetto chiamato Triforza, semina il terrore per le lande di Hyrule invadendole con le sue orde di creature e mostri e prendendo in ostaggio la Principessa Zelda, erede al trono di Hyrule.</string>
+    <string name="text_shadow">Shadow of the Colossus è un gioco di avventura particolare: al suo interno non ci sono città o dungeon da esplorare, non ci sono persone con cui parlare o interagire, non ci sono nemici da eliminare a parte i colossi a cui fa riferimento il titolo. La terra dove la quale ci si muove è vastissima e quasi senza vita,  la maggior parte dello scenario è vuoto e i padroni della scena sono enormi prati verdeggianti</string>
+</resources>
